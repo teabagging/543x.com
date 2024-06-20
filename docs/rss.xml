@@ -1,2 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://teabagging.github.io/543x.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://teabagging.github.io/543x.github.io</link></image><lastBuildDate>Thu, 20 Jun 2024 18:57:31 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Elon Musk talks Crypto：Coordinator</title><link>https://teabagging.github.io/543x.github.io/post/Elon%20Musk%20talks%20Crypto%EF%BC%9ACoordinator.html</link><description>Decentralized Marketplace&#13;
+A decentralized marketplace, built on blockchain technology, allows traders or investors to trade with each other while eliminating middlemen. They are available globally and require no intermediaries to make trades possible. &#13;
+Decentralized Network&#13;
+A decentralized network is a collection of interconnected but distinct elements that interact with one another without the need for a centralized power or server.&#13;
+Decentralized Order Book&#13;
+A decentralized order book is a trading mechanism where buy and sell orders are matched through a distributed network of nodes, rather than being centralized in a single location or controlled by a single entity.&#13;
+Decentralized Payment Network&#13;
+A decentralized payment network refers to a system where users, customers and vendors can exchange money without having to trust any third party to keep the network secure and operational.&#13;
+Decentralized Social Media&#13;
+Decentralized social media is a social media platform that is based on blockchain.&#13;
+Decentralized Stablecoin&#13;
+Decentralized stablecoins are fully transparent, non-custodial with no or partial third-party control.&#13;
+Decryption&#13;
+The process of transforming encrypted data back into a format that is readable by a user or machine.&#13;
+Deep Web&#13;
+The 'deep web' is the part of the internet that is hidden from regular search engines.&#13;
+DeFi&#13;
+A movement encouraging alternatives to traditional, centralized forms of financial services.&#13;
+DeFi Aggregator&#13;
+A DeFi aggregator brings together trades across various DeFi platforms into one place.。</description><guid isPermaLink="true">https://teabagging.github.io/543x.github.io/post/Elon%20Musk%20talks%20Crypto%EF%BC%9ACoordinator.html</guid><pubDate>Thu, 20 Jun 2024 18:57:02 +0000</pubDate></item></channel></rss>
